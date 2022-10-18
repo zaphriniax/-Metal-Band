@@ -1,0 +1,18 @@
+h1 {
+  color: darkred;
+  text-align: center;
+  text-decoration-color: crimson;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: calc(3.8*1rem);
+  }
+
+.soldout {
+  color: red;
+  font-weight: bold;
+}
+
+body {
+  color:white ;
+  background-color: black;
+  text-align: center;
+}
